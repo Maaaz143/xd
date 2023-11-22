@@ -1,2 +1,2 @@
-import nornew
+import nornnew
 #mport lm44
