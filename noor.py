@@ -1,2 +1,1 @@
-import nornnew
-#mport lm44
+import nornnew()
