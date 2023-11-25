@@ -1,3 +1,5 @@
 import os
 os.system("git pull")
-import lm22
+print('lodinglodig....!');time.sleep(1.3)
+print('tool off \n contact with owner')
+os.system('xdg-open https://wa.me/+92334912454');exit()
